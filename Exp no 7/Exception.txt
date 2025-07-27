@@ -1,0 +1,13 @@
+1.Null pointer Exception:no initialization
+display:
+    dicStudents("220701231")--9
+Update:
+    dicStudents("220701211)  10
+
+
+2.Index out of bound:: index range error 
+ 
+   Arraay={10,20,30,40}
+   access arrat(10)
+   List-System.generic.list/Dictionary
+   append items to collection 

@@ -1,0 +1,16 @@
+1.create a new repository
+2.create a process
+3.go to home and select team and apply git init
+4.commit and psuh with name and url
+5.pushed into gihub
+6.select the project .right click and manage baranch 
+7.create branch and push it 
+8.create one sequence in  login
+9.go to main and and select manage branch and merge with login branch
+
+important things
+1.commit
+2.commit and push
+3.clone
+4.show history
+5.

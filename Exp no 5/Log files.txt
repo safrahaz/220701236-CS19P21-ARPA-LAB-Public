@@ -1,0 +1,6 @@
+1.craete variable a,b, and add a and b and store in c 
+click ctrl+l for log files
+2.open execution file and clear it 
+3.enable execution trail and and log activities 
+4. then run it and open execution in log file 
+execution trail -detailed explanation and check whether the process work properly or not 

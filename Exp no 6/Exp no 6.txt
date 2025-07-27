@@ -1,0 +1,5 @@
+log activities 
+1.fatal-highest-no response
+2.Error-particular product 
+3.warning-normal warning 
+4.info- basic message 

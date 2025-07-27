@@ -1,0 +1,5 @@
+1.create array of cities 
+2.add use application browser (in properties go to selector  in title add asterisk in front and back)
+2.open for  each traverse the cities (inside open browser)
+3.type into and traverse the array 
+4.capture(using get text and click continue on error(in properties)) the temperature and store it 

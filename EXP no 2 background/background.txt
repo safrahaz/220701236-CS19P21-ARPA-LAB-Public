@@ -1,0 +1,7 @@
+1.can run concurrently with other process
+10 random files with random content from 1000 to 10000 
+background process automatically without affecting our usage ....
+
+for files -write text 
+
+for folder -- create folder
