@@ -1,0 +1,21 @@
+1.use assign activity
+2.create 4 assign activity by incrementing variable 
+3.Run-main.xaml file(only)
+4-run file-opened xaml file is going to run 
+5.debug -run the activities step by step 
+6.Enaable slow step for executing in a step by step 
+7.execution trail-check whether the project is properly executed or  not 
+8.during debugging we can pause and check the current c values in local panel 	
+9.break point for break (1-enable,2.disable,3.deleted)
+10.step into-open the container and execute one activity and pause (we need to give continue (step into)
+11.step over-execute only particular container (no pause)(no pause)
+12.step out-quit from middle 
+
+conditional break point
+1.right click the activity and click toggle break point 
+2.right click and edit break point (give the condition)-(first field condition for valu)(second filed iteration time)
+
+panel
+local:all the variable shown
+watch :neede varible will be shown
+immediate :run time changing and seeing 

@@ -1,0 +1,9 @@
+1.Read pdf Text
+2.Read pdf with OCR
+
+scanned document-Image(ocr)
+native text -read text	
+
+1.Use read pdf Text activities 
+2. go with Extract text 
+3.give starting string and ending string 

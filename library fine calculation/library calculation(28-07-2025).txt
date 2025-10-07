@@ -3,10 +3,15 @@
 3.use read csv activity for reading the csv and on ignore headers option(Dt1)(no need)
 4.use join activity to join both the data table (inner join) and add the colum name in both the table(Dt2)
 5.in the resultant data table filter the datable based on Student (Dt3)
-6.add excel application scope(inside use for each data tabl. in each dat fetch issue date)
+6.add excel application scope(inside use (forEach data table). in each dat fetch issue date)
 ----for identifying no of days -----Convert.ToDateTime(CurrentRow("Returned Date"))-Convert.ToDateTime(CurrentRow(Issued On"))).TotalDays
 ----use if activities and check whether the days is greater than 7 
 ----if greater than seven 
 ----find salary =days*10
 ----use counter variable for sheet in excel (like G2,G3...etc)(Use write cell)
-----use set range color for coloring the shell 
+
+----use set range color for coloring the shell( 
+for fine peoples 
+colr=Color.red
+range-"C".+c.tostring
+sheet 1

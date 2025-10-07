@@ -1,0 +1,14 @@
+go to file explorer 
+Type PowerShell at top	
+
+open notepad and write the script and store in to PowerShell folder (UiPath) 
+
+(Open notepad and type the command for creating files)
+1. Use Read text file in UiPath and choose the text file(Output into Script)
+2.Use invoke PowerShell and (Enable is script and chose file info data type)
+3. Use 2 start process and type both the file name in file  field 
+4.after 5 sec delay 
+5. use kill process activity 
+
+6.Use rad text file for creating directory (Script2 notepad file in powershelell older)
+7.then push the file  in directory 

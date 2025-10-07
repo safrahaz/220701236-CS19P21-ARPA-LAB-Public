@@ -1,0 +1,39 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "change trigger.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt1&TryCatch_1",
+        "res&Sequence_3",
+        "n2&Sequence_3",
+        "n1&Sequence_3"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Tnea Experiment/Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Dt1&Sequence_1",
+        "Dt2&Sequence_1",
+        "Dt3&Sequence_1",
+        "Dt4&Sequence_1",
+        "c&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

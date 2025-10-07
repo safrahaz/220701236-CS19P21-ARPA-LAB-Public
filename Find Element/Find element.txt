@@ -1,0 +1,10 @@
+1.use application browser 
+2.target the Ame login page (login the ame page)
+3.use find element(and store it in any variable)[ui element is get stored (<>.....<>)(for text use innerhtml) (for image /logo use src)
+4.target the username using find element
+5.Use find attribute give input element as username ans set attribute as inner html	and store it int new varaiable(str text)
+6.And display using message box 
+
+Element Exist-Check whether the element is present or not
+
+

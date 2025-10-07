@@ -1,0 +1,21 @@
+Email activity
+1. step verification
+2.Generate app password 
+3.imap-->imap.gmail.com
+port:993
+4.for pop=pop.gmail.com
+port=985
+
+
+moving Specific mail to  Folder
+
+1.Use get password for storing our password in a  confidential manner
+2.use read range activity for reading sender (Excel activity)
+3.Downgrade the version into 1.23.11
+4.use get mail message(and configure port =993,server->imap.gmail.com and type your gmail and your app password)
+5.use Foreach activity for iterating mail maeggages
+4.inside foreach use for each row in datatable to compare mail  in excel dt1
+5.inside 2 for each use if else and check matching email (messages.Sender.Address.Contains(Row("sender"))
+6.use get imap move message and use the folder
+
+Set timeout as 60 seconds(60000) in order to avoid timeout exeption
